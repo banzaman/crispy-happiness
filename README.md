@@ -21,7 +21,7 @@ Additional description about the project and its features.
 - Click the green `Code` button on the repo
 - In your local PC, open your terminal in the folder you would like to clone the project.
 - Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/banzaman/crispy-happiness`
-- On the terminal, navigate into the directory like so: `cd Portfolio-mskeleton`
+- On the terminal, navigate into the directory like so: `cd crispy-happiness`
 
 
 
