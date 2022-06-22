@@ -40,12 +40,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/banzaman/crispy-happiness/issues).
 
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
