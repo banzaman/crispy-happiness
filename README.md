@@ -10,6 +10,7 @@
 
 - HTML
 - CSS
+- GIT
 
 ## Getting Started
 
